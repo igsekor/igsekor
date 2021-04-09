@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a several project the most of them are connected with education
-- 🌱 I’m currently learning Rust & Scala
-- 👯 I’m looking to collaborate on educational projects
-- 💬 Ask me about everything by suitable links below
+I’m currently:
+- working on a several project the most of them are connected with education
+- learning Rust & Scala
+- looking to collaborate on educational projects (I have a few new ideas about...)
+
+Ask me about everything by suitable links below:
 
 [![Telegram contact](./telegram.png)](https://t.me/igsekor)
 [![Twitter contact](./twitter.png)](https://twitter.com/igsekor)
