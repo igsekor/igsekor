@@ -1,3 +1,5 @@
+![Cover](./cover.jpg)
+
 ### Hi there 👋
 
 I’m currently:
