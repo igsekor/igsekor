@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hello everyone 👋
 
-I’m currently:
-- mostly a web-developer in last few years
-- have an experience with Backend on PHP / Python / Go, DevOps, mobile apps for iOS and Android
-- working on a several project the most of them are connected with education
-- learning Rust & Scala
-- looking to collaborate on educational projects (I have a few new ideas about...)
+I'm currently here:
+
+- developer, devops and author in the [Doka](https://doka.guide)
+- the last few years mainly a web developer
+- have experience working with a JavaScript / PHP / Python / C++ / Java / Go / Rust / Swift / Kotlin
+- a little DevOps
+- mobile apps for iOS and Android
+- I am working on several projects, most of which are related to education
+- studying Rust and Haskell
+- I want to cooperate in educational projects (I have some new ideas...)
 
 [My site](https://igsekor.com) is almost there too.
 
