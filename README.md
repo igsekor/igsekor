@@ -12,8 +12,3 @@ I'm currently here:
 - I want to cooperate in educational projects (I have some new ideas...)
 
 [My site](https://igsekor.com) is almost there too.
-
-Badges:
-
-![Автор в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/author.svg)
-![Программист в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/programmer.svg)
