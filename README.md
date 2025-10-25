@@ -2,9 +2,9 @@
 
 I'm currently here:
 
-- developer, devops and author in the [Doka](https://doka.guide)
+- devrel, developer, devops and author in the [Doka](https://doka.guide)
 - the last few years mainly a web developer
-- have experience working with a JavaScript / PHP / Python / C++ / Java / Go / Rust / Swift / Kotlin
+- have experience working with a JavaScript / Python / C++ / Java / Go / Rust / Swift / Kotlin
 - a little DevOps
 - mobile apps for iOS and Android
 - I am working on several projects, most of which are related to education
